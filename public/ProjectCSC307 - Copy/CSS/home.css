@@ -1,0 +1,44 @@
+body{
+}
+
+.bg{
+  background-image: url(../IMAGES/homebg6.png);
+  background-attachment:  scroll;
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat ;
+  width: 100%;
+  height: 700px;
+}
+.title2{
+  font-size: 70px;
+  color: #026128;
+  text-align: center;
+}
+.text{
+  color:#026128;
+  padding-left: 60px;
+
+}
+.startButt{
+  color: black;
+  background-color: #6aeb8c;
+  margin-bottom: 100px;
+  height: 40px;
+  width: 120px;
+}
+.startButt:hover{
+  color: white;
+  background-color: #3efa70;
+}
+.brief{
+  font-size: 45px;
+  color: #3c824a;
+  padding-right: 80px;
+  padding-bottom: 60px;
+}
+.downBar{
+  padding-left: 70px;
+  padding-top: 45px;
+  font-size:  medium;
+}

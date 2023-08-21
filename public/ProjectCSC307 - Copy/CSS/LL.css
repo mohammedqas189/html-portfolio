@@ -1,0 +1,90 @@
+body{
+
+  font-weight:bolder;
+  background-color:white;  /*#FF6262;*/
+
+}
+.bg2{
+  background-image: url(../IMAGES/learningbg.png);
+  background-attachment:  scroll;
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat ;
+  background-color: ;
+
+}
+
+.letterTable{
+  font-size: 50px;
+  font-family: 'Londrina Shadow', cursive;
+  width: 1200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  padding-left: 150px;
+  padding-right: 150px;
+
+
+
+}
+p:hover span{
+  font-weight: bolder;
+  font-size: 70px;
+}
+.c1:hover{
+  color: #e60202;
+}
+.c2:hover{
+  color: #fa4605;
+}
+.c3:hover{
+  color: #ffe603;
+}
+.c4:hover{
+  color: #05c202;
+}
+.c5:hover{
+  color: #02e3a7;
+}
+.c6:hover{
+  color: #0b1cdb;
+}
+.c7:hover{
+  color: #4e18ba;
+}
+.c8:hover{
+  color: #ff1fe9;
+}
+.c9:hover{
+  color: #ff1241;
+}
+.c10:hover{
+  color: #454f48;
+}
+.c11:hover{
+  color: #1f3b73;
+}
+.c12:hover{
+  color: #633111;
+}
+.c13:hover{
+  color: #303030;
+}
+.c14:hover{
+  color: tomato;
+}
+
+ .mm{
+  display: none;
+  border:  3pt inset white;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-left: 8%;
+  background-color: #bce6c7;
+  font-family: 'Londrina Solid', cursive;
+
+
+}
+ th:hover table{
+  display: block;
+}

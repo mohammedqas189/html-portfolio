@@ -1,0 +1,90 @@
+body{
+  font-family: 'Bubblegum Sans', cursive;
+  font-weight: lighter;
+  border-style:  inset;
+  border-width:  2pt;
+  border-color: black;
+  border-collapse: collapse;
+}
+.nav{
+  font-weight: lighter;
+  padding-left: 70px;
+  padding-top:  10px;
+  font-size:    20px;
+  margin-right: 20px;
+  color: #026128;
+
+}
+.color{
+  color: #026128;
+}
+.scrDown{
+  display: none;
+}
+td:hover table span{
+  font-size: small;
+  display: block;
+  color: white;
+  border-style: hidden;
+  border-width: 1pt;
+  border-color: ;
+  background-color:#62708a;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: lighter;
+  width: 80px;
+  height: 25px;
+  margin-top: 10px;
+  padding-top: 8px;
+
+}
+.title{
+  text-decoration: none;
+  font-family: 'Londrina Solid', cursive;
+  font-weight: bold;
+  font-size: xx-large;
+  padding-right: 100px;
+}
+.signUp{
+  padding-left: 300px;
+}
+input{
+  border-style: solid;
+  border-color: black;
+  border-width:medium;
+  background-color: white;
+  font-size: 20px;
+  font-weight: 100;
+  width:  125px;
+  font-family:'Bubblegum Sans', cursive;
+}
+.input:hover{
+  background-color: lightgrey;
+  text-decoration:  underline;
+}
+hr{
+  width: 1495px;
+}
+.hrTable{
+  width: 100%;
+  height: 1px;
+}
+.CU{
+  color: black;
+  margin-top:50px;
+  border: inset 2pt black;
+  font-size: medium;
+}
+.nodec1{
+  text-decoration: none;
+  color: #026128;
+}
+.nodec2{
+  text-decoration: none;
+  color: #212121;
+}
+a:hover{
+  text-decoration: underline;
+  background-color: #e3e1e1;
+  text-decoration-style: dashed;
+  background-color: #c5ccd9;
+}

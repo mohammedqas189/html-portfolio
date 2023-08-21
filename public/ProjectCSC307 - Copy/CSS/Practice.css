@@ -1,0 +1,65 @@
+body{
+  font-weight:bolder;
+  background-color:white;  /*#FF6262;*/
+}
+
+.letterTable{
+  font-size: 50px;
+  font-family: 'Londrina Shadow', cursive;
+  width: 1200px;
+  padding-top: 20px;
+  padding-bottom: 20px
+}
+p:hover span{
+  font-weight: bolder;
+  font-size: 70px;
+}
+.c1:hover{
+  color: #e60202;
+}
+.c2:hover{
+  color: #fa4605;
+}
+.c3:hover{
+  color: #ffe603;
+}
+.c4:hover{
+  color: #05c202;
+}
+.c5:hover{
+  color: #02e3a7;
+}
+.c6:hover{
+  color: #0b1cdb;
+}
+.c7:hover{
+  color: #4e18ba;
+}
+.c8:hover{
+  color: #ff1fe9;
+}
+.c9:hover{
+  color: #ff1241;
+}
+ .mm{
+  display: none;
+  border:  2pt dotted black;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-left: 8%;
+  background-color: #bce6c7;
+  font-family: 'Londrina Solid', cursive;
+
+
+}
+ th:hover table{
+  display: block;
+}
+
+form{
+background-image: url(../IMAGES/Prac.png);
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+background-repeat:no-repeat ;
+}

@@ -1,0 +1,41 @@
+body{
+  background-color: #c3e0cb;
+}
+.white{
+  background-color: white;
+}
+.marg{
+  padding-right: 400px;
+  width: 100%;
+
+}
+.padCU{
+  padding-right: 350px;
+  padding-left: 350px;
+}
+.auFormatting{
+  font-size: 21px;
+  font-weight: 900;
+  font-family: 'Gentium Plus', serif;
+}
+.padd{
+  padding-right: 600px;
+}
+.box{
+  border-style: ridge;
+  border-color: #914016;
+  border-width: 4pt;
+  padding-right: 5px;
+}
+div{
+  text-indent: 1em;
+}
+ol {
+  color: #913301;
+}
+span{
+  color: Black;
+}
+hr{
+  width: 1490px;
+}
